@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+.container100 {
+    width: 100%;
+    height: 100%;
+}
+
+.row107 {
+    width: 100%;
+    height: 100%;
+}
+
+.box000 {
+    width: 70%;
+    height: 100%;
+    margin-top: 100px;
+    
+    margin-left: 100px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+
+}
+
